@@ -1,9 +1,8 @@
-import RImport from "./RImport";
-
+import Calc from "./Calc/page"
 function Home() {
   return (
     <div>
-      <RImport />
+      <Calc />
     </div>
   );
 }
